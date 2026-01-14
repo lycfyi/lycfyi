@@ -1,8 +1,8 @@
-# Hi, I'm Yucheng (YC) 👋
+ # Hi, I'm Yucheng (YC) 👋
 
 **AI Builder & Founder** — Building tools that empower creators and communities.
 
-🏢 Founder of Velocity1 · Previously CTO & Tech Lead at startups  
+🏢 Founder of Velocity1 · Previously CTO & Tech Lead at startups
 📍 Boston, MA · Georgia Tech alum
 
 ---
@@ -13,42 +13,58 @@
 AI-powered platform for community managers. Automates growth analytics, member insights, and engagement optimization.
 
 - **DiscordHunt** — Discord server analytics & discovery platform
-- - **community-agent-plugin** — Claude Code plugins for Discord & Telegram sync
- 
-  - ### 🌏 Chuhaiqu — *75K+ Members*
-  - The largest Chinese indie hacker community for going global. Helping builders expand internationally.
- 
-  - - **Tutti.so** — Creator-brand partnership marketplace
-   
-    - ---
+- **community-agent-plugin** — Claude Code plugins for Discord & Telegram sync
 
-    ## Tech Stack
+### 🌏 Chuhaiqu — *75K+ Members*
+The largest Chinese indie hacker community for going global. Helping builders expand internationally.
 
-    **Languages**
-    Python · TypeScript · JavaScript · SQL · Go
+- **Tutti.so** — Creator-brand partnership marketplace
 
-    **AI & Machine Learning**
-    Claude API · GPT · AI Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning
-    Feature Engineering · Model Serving · Vector Databases · Embeddings
+---
 
-    **Backend & Infrastructure**
-    Next.js · React · Node.js · FastAPI · Prisma · PostgreSQL · Redis
-    Vercel · AWS · Docker · Kubernetes
+## Tech Stack
 
-    **Data & Analytics**
-    Data Pipelines · ETL · BigQuery · Pandas · Real-time Processing
+**Languages**
+Python · TypeScript · JavaScript · SQL · Go
 
-    **Tools & Platforms**
-    Claude Code · Cursor · Git · CI/CD · Terraform
+**AI & Machine Learning**
+Claude API · GPT · AI Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning
+Feature Engineering · Model Serving · Vector Databases · Embeddings
 
-    ---
+**Backend & Infrastructure**
+Next.js · React · Node.js · FastAPI · Prisma · PostgreSQL · Redis
+Vercel · AWS · Docker · Kubernetes
 
-    ## Connect
+**Data & Analytics**
+Data Pipelines · ETL · BigQuery · Pandas · Real-time Processing
 
-    [![Twitter](https://img.shields.io/badge/-@lycfyi-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/lycfyi)
-    [![LinkedIn](https://img.shields.io/badge/-liuyucheng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/liuyucheng)
-    [![Website](https://img.shields.io/badge/-lyc.fyi-000?style=flat&logo=safari&logoColor=white)](https://lyc.fyi)
+**Tools & Platforms**
+Claude Code · Cursor · Git · CI/CD · Terraform
 
-    ---
+---
 
-    *Building in public. Shipping weekly.*
+## 💡 Fun Facts
+
+- Colleagues describe me as **"Terminator meets Sage"** — relentless execution with a calming presence
+- Created a hand gesture game in high school so viral **the school tried to ban it** — still chasing that product magic
+- T-shaped generalist who loves **fusing opposite skills**: ML engineering + community building, technical precision + emotional intelligence
+- Incubated **50+ projects** with 14 profitable exits and 4 ProductHunt top-3 launches
+- Wrote the first comprehensive analysis of **160+ solopreneur businesses** — discovered the "7% elite" phenomenon
+
+---
+
+## 🎭 Quote
+
+> "AI + one person = tomorrow's enterprise. The hardest part is earning that first $1000 on the internet. Once you break through, you understand how to scale."
+
+---
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@lycfyi-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/lycfyi)
+[![LinkedIn](https://img.shields.io/badge/-liuyucheng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/liuyucheng)
+[![Website](https://img.shields.io/badge/-lyc.fyi-000?style=flat&logo=safari&logoColor=white)](https://lyc.fyi)
+
+---
+
+*Terminator execution. Sage patience.*
