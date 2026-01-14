@@ -29,15 +29,14 @@ The largest Chinese indie hacker community for going global. Helping builders ex
 Python · TypeScript · JavaScript · SQL · Go
 
 **AI & Machine Learning**
-AI Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning
-Feature Engineering · Model Serving · Vector Databases · Embeddings
+Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning · Feature Engineering/Store/Serving · Model Serving · Vector Databases · Embeddings
 
 **Backend & Infrastructure**
 Next.js · React · Node.js · FastAPI · Prisma · PostgreSQL · Redis
 Vercel · AWS · Docker · Kubernetes
 
 **Data & Analytics**
-Data Pipelines · ETL · BigQuery · Pandas · Real-time Processing
+Data Modeling · Data Pipelines · ETL · BigQuery · Pandas · Real-time Processing
 
 **Tools & Platforms**
 Claude Code · Cursor · Git · CI/CD
