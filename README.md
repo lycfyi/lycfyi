@@ -2,7 +2,7 @@
 
 **AI Builder & Founder** — Building tools that empower creators and communities.
 
-🏢 Founder of Velocity1 · Previously CTO & Tech Lead at startups
+🏢 Founder of Velocity1 · Co-founder of Lucius AI · Previously CTO at startups · Tech Lead at Wayfair
 📍 Boston, MA · Georgia Tech alum
 
 ---
