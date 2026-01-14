@@ -9,16 +9,17 @@
 
 ## What I'm Building
 
-### 🚀 Lucius AI — *$3M Raised*
+### 🚀 [Lucius AI](https://hirelucius.com) — *$3M Raised*
 AI-powered platform for community managers. Automates growth analytics, member insights, and engagement optimization.
 
-- **DiscordHunt** — Discord server analytics & discovery platform
-- **community-agent-plugin** — Claude Code plugins for Discord & Telegram sync
+- **[DiscordHunt](https://discordhunt.com)** — Discord server analytics & discovery platform
+- **[community-agent-plugin](https://github.com/lycfyi/community-agent-plugin)** — Claude Code plugins for Discord & Telegram sync
 
-### 🌏 Chuhaiqu — *75K+ Members*
+### 🌏 [Chuhaiqu](https://chuhaiqu.club) — *75K+ Members*
 The largest Chinese indie hacker community for going global. Helping builders expand internationally.
 
-- **Tutti.so** — Creator-brand partnership marketplace
+- **[Tutti.so](https://tutti.so)** — Creator-brand partnership marketplace
+- **X BoostClub** — Creator network with 4M+ 𝕏 followers for product launches
 
 ---
 
