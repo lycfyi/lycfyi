@@ -29,7 +29,7 @@ The largest Chinese indie hacker community for going global. Helping builders ex
 Python · TypeScript · JavaScript · SQL · Go
 
 **AI & Machine Learning**
-Claude API · GPT · AI Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning
+AI Agents · Prompt Engineering · LLM Orchestration · RAG · Fine-tuning
 Feature Engineering · Model Serving · Vector Databases · Embeddings
 
 **Backend & Infrastructure**
@@ -40,7 +40,7 @@ Vercel · AWS · Docker · Kubernetes
 Data Pipelines · ETL · BigQuery · Pandas · Real-time Processing
 
 **Tools & Platforms**
-Claude Code · Cursor · Git · CI/CD · Terraform
+Claude Code · Cursor · Git · CI/CD
 
 ---
 
